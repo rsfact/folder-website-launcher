@@ -1,13 +1,14 @@
 [
   {
-    "code": "maruito",
-    "name": "丸糸",
+    "code": "goshima",
+    "name": "五島税理士事務所",
     "sites": [
-      "https://maruito.net",
-      "https://www.google.com"
+      "https://www.goshima-management.com/",
+      "https://ameblo.jp/goshima-tax/"
     ],
     "folders": [
-      "C:\\Users\\suzuk\\Desktop\\goshima-launcher"
+      "C:\\Users\\suzuk\\Desktop\\goshima-launcher",
+      "C:\\Users\\suzuk\\Desktop"
     ]
   }
 ]
