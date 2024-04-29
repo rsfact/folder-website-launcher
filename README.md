@@ -1,0 +1,1 @@
+- `Ctrl + Alt + M`でGUIが開き、`map_uri.json`に指定した`code`を入力し、ウェブサイトやフォルダを開く
